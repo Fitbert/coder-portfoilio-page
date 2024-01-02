@@ -14,6 +14,7 @@ While we are still in the new phases of learning code, I was able to learn to re
 This is a first generation developer portfoilio with some features. There will be more additions in time of adding more projects. 
 
 ![screenshot](assets/images/portfoilo-screenshot.png)
+https://fitbert.github.io/coder-portfoilio-page/
 
 ## Credits
 
